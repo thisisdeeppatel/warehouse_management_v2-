@@ -8,3 +8,5 @@ Simple Warehouse management with advanced search functionality using JQuery Data
 
 This is my first project when I started learning Web Development.
 
+'''The login class **loginclass.php** is the main Heighlight of the project. Which can be implemented in any project to add secure login functionality.'''
+
